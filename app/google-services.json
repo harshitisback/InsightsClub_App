@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207882030823",
+    "project_id": "insightclub-9684f",
+    "storage_bucket": "insightclub-9684f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207882030823:android:86d42e2142407406b59c42",
+        "android_client_info": {
+          "package_name": "com.example.insightclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207882030823-i7ijmchpkvhar6mih075reqhc35udfpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2qZ20ReZQSFFJAZz5OQNz9-dqv_-8D_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207882030823-i7ijmchpkvhar6mih075reqhc35udfpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

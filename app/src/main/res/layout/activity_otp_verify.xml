@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OtpVerify">
+
+    <RelativeLayout
+        android:id="@+id/content_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <RelativeLayout
+            android:id="@+id/page_verify_otp_ek1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp">
+
+            <View
+                android:id="@+id/_bg__verify_otp_ek2"
+                android:layout_width="428dp"
+                android:layout_height="926dp"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="0dp"
+
+                android:background="@drawable/_bg__verify_otp_ek2_shape" />
+
+            <TextView
+                android:id="@+id/verify_phone"
+                android:layout_width="205dp"
+                android:layout_height="47dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="126dp"
+                android:layout_marginLeft="141dp"
+                android:layout_marginTop="79dp"
+                android:layout_marginEnd="80dp"
+                android:fontFamily="sans-serif-black"
+                android:text="@string/verify_phone_string"
+                android:textColor="@color/verify_phone_color"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/code_is_sent_to_7067833834"
+                android:layout_width="349dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="35dp"
+                android:layout_marginLeft="105dp"
+                android:layout_marginTop="134dp"
+                android:layout_marginEnd="27dp"
+                android:fontFamily="sans-serif-black"
+                android:text="@string/code_is_sent_to_7067833834_string"
+                android:textColor="@color/code_is_sent_to_7067833834_color"
+                android:textSize="16sp" />
+
+
+            <EditText
+                android:id="@+id/verifyotpbox_1"
+                android:layout_width="50dp"
+                android:layout_height="51dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="23dp"
+                android:layout_marginTop="219dp"
+
+                android:background="@drawable/verifyotpbox_1_shape"
+                android:gravity="center"
+                android:imeOptions="actionNext"
+                android:importantForAutofill="no"
+                android:inputType="number"
+                android:maxLength="1" />
+
+            <EditText
+                android:id="@+id/verifyotpbox_2"
+                android:layout_width="50dp"
+                android:layout_height="51dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="85dp"
+                android:layout_marginTop="217dp"
+
+                android:background="@drawable/verifyotpbox_1_shape"
+                android:gravity="center"
+                android:imeOptions="actionNext"
+                android:importantForAutofill="no"
+                android:inputType="number"
+                android:maxLength="1" />
+
+            <EditText
+                android:id="@+id/verifyotpbox_3"
+                android:layout_width="50dp"
+                android:layout_height="51dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="145dp"
+                android:layout_marginTop="217dp"
+
+                android:background="@drawable/verifyotpbox_1_shape"
+                android:gravity="center"
+                android:imeOptions="actionNext"
+                android:importantForAutofill="no"
+                android:inputType="number"
+                android:maxLength="1" />
+
+            <EditText
+                android:id="@+id/verifyotpbox_4"
+                android:layout_width="50dp"
+                android:layout_height="51dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="207dp"
+                android:layout_marginTop="218dp"
+
+                android:background="@drawable/verifyotpbox_1_shape"
+                android:gravity="center"
+                android:imeOptions="actionNext"
+                android:importantForAutofill="no"
+                android:inputType="number"
+                android:maxLength="1" />
+
+            <EditText
+                android:id="@+id/verifyotpbox_5"
+                android:layout_width="50dp"
+                android:layout_height="51dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="265dp"
+                android:layout_marginTop="217dp"
+
+                android:background="@drawable/verifyotpbox_1_shape"
+                android:gravity="center"
+                android:imeOptions="actionNext"
+                android:importantForAutofill="no"
+                android:inputType="number"
+                android:maxLength="1" />
+
+            <EditText
+                android:id="@+id/verifyotpbox_6"
+                android:layout_width="50dp"
+                android:layout_height="51dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="326dp"
+
+                android:layout_marginTop="217dp"
+                android:layout_marginEnd="34dp"
+                android:background="@drawable/verifyotpbox_1_shape"
+                android:gravity="center"
+                android:imeOptions="actionNext"
+                android:importantForAutofill="no"
+                android:inputType="number"
+                android:maxLength="1" />
+
+            <TextView
+                android:id="@+id/don_t_recieve_code_"
+                android:layout_width="274dp"
+                android:layout_height="36dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="68dp"
+                android:layout_marginLeft="105dp"
+                android:layout_marginTop="330dp"
+                android:layout_marginEnd="69dp"
+                android:fontFamily="sans-serif-black"
+                android:text="Don’t recieve code? "
+                android:textColor="@color/request_again_color"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/request_again"
+                android:layout_width="180dp"
+                android:layout_height="38dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="216dp"
+                android:layout_marginLeft="261dp"
+                android:layout_marginTop="328dp"
+                android:layout_marginEnd="14dp"
+                android:fontFamily="sans-serif-black"
+                android:text="@string/request_again_string"
+                android:textColor="@color/request_again_color"
+                android:textSize="16sp" />
+
+
+            <Button
+                android:id="@+id/btn_verify_otp"
+                android:layout_width="353dp"
+                android:layout_height="68dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="46dp"
+                android:layout_marginTop="444dp"
+                android:layout_marginEnd="12dp"
+                android:backgroundTint="#F7D53E"
+                android:text="Verify and Create Account"
+
+                android:textStyle="bold" />
+
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+</ScrollView>

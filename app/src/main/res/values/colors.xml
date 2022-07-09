@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="_bg__login_page_ek2_color">#F1F3F6</color>
+    <color name="in_color">#5193F2</color>
+    <color name="sight_club_color">#0F0F0F</color>
+    <color name="line_1_color">#5A98F2</color>
+    <color name="rectangle_2_color">#E3E9F2</color>
+    <color name="forgot_password___color">#70788A</color>
+    <color name="don_t_have_an_account__color">#000000</color>
+    <color name="signup_color">#8D94A2</color>
+
+    <color name="_bg__signup_page_ek2_color">#F1F3F6</color>
+    <color name="profile_picture___color">#FFFFFF</color>
+    <color name="terms___conditions_color">#7062FF</color>
+    <color name="by_pressing__submit__you_agree_to_our_color">#000000</color>
+    <color name="signup_color1">#5D4DFF</color>
+    <color name="fullname_color">#E3E9F2</color>
+
+
+    <color name="_bg__verify_otp_ek2_color">#FFFFFF</color>
+    <color name="verify_phone_color">#737373</color>
+    <color name="code_is_sent_to_7067833834_color">#000000</color>
+    <color name="verifyotpbox_1_color">#F6F5FA</color>
+    <color name="don_t_recieve_code__color">#8E8E8E</color>
+    <color name="request_again_color">#3D3D3D</color>
+    <color name="btn_verify_otp_color">#F7D53E</color>
+</resources>

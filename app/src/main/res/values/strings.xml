@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Insight Club</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <!-- login_page strings -->
+
+
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="in_string">IN</string>
+    <string name="sight_club_string">SIGHTS CLUB</string>
+    <string name="forgot_password___string">Forgot Password ?</string>
+    <string name="login_with_string">Login with</string>
+    <string name="don_t_have_an_account__string">Dont have an account?</string>
+    <string name="signup_string">signup</string>
+
+
+    <!-- verify_otp strings -->
+
+
+    <string name="verify_phone_string">Verify Phone</string>
+    <string name="code_is_sent_to_7067833834_string">Code is sent to your registered phone number</string>
+    <string name="don_t_recieve_code__string">Dont recieve code? </string>
+    <string name="request_again_string">Request again</string>
+    <string name="verify_and_create_account_string">Verify and Create Account</string>
+</resources>
