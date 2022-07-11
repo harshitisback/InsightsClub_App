@@ -32,4 +32,10 @@
     <color name="don_t_recieve_code__color">#8E8E8E</color>
     <color name="request_again_color">#3D3D3D</color>
     <color name="btn_verify_otp_color">#F7D53E</color>
+
+
+    <color name="_bg__profile_ek2_color">#FFFFFF</color>
+    <color name="profile_rec_1_color">#C56692</color>
+    <color name="profile_line_color">#DDBCCA</color>
+    <color name="amankumartiwari1502_gmial_com_color">#000000</color>
 </resources>

@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/drawable/_bg__login_page_ek2_shape.xml" value="0.16" />
+        <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/drawable/_bg__profile_ek2_shape.xml" value="0.176" />
         <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/drawable/_bg__signup_page_ek2_shape.xml" value="0.16" />
         <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/drawable/_bg__verify_otp_ek2_shape.xml" value="0.16" />
         <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/drawable/google.xml" value="0.16" />
@@ -12,6 +13,7 @@
         <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/drawable/ic_lock_24.xml" value="0.16" />
         <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/drawable/line_1_shape.xml" value="0.16" />
         <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/drawable/profile_pic_oval_shape.xml" value="0.16" />
+        <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/drawable/profile_rec_2_shape.xml" value="0.176" />
         <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/drawable/rectangle_1_shape.xml" value="0.16" />
         <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/drawable/rectangle_2_shape.xml" value="0.101" />
         <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/drawable/rectangle_3_shape.xml" value="0.101" />
@@ -24,7 +26,9 @@
         <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/drawable/verifyotpbox_3_shape.xml" value="0.16" />
         <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/drawable/verifyotpbox_4_shape.xml" value="0.16" />
         <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.193359375" />
+        <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/layout/activity_editprofileimage.xml" value="0.22916666666666666" />
         <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/layout/activity_forgot_password.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/layout/activity_homepage.xml" value="0.22916666666666666" />
         <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/layout/activity_login.xml" value="0.22916666666666666" />
         <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/layout/activity_main.xml" value="0.22916666666666666" />
         <entry key="..\:/Users/amank/AndroidStudioProjects/AdditionApplication/InsightClub/app/src/main/res/layout/activity_otp_verify.xml" value="0.22916666666666666" />

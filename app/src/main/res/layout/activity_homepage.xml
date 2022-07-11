@@ -4,6 +4,125 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/_bg__login_page_ek2_color"
     tools:context=".Homepage">
+
+
+    <View
+        android:id="@+id/profile_rec_1"
+        android:layout_width="214dp"
+        android:layout_height="280dp"
+        android:background="@drawable/profile_rec_1_shape"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <View
+        android:id="@+id/profile_rec_2"
+        android:layout_width="214dp"
+        android:layout_height="348dp"
+        android:background="@drawable/profile_rec_2_shape"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <View
+        android:id="@+id/profile_line"
+        android:layout_width="357dp"
+        android:layout_height="1dp"
+        android:layout_marginTop="380dp"
+        android:background="@drawable/profile_line_shape"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <ImageView
+        android:id="@+id/profile_pic_main"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/ic_launcher_background"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.607"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.912" />
+
+    <TextView
+        android:id="@+id/profile_name"
+        android:layout_width="186dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="112dp"
+        android:fontFamily="sans-serif-black"
+        android:gravity="center"
+        android:text="Name"
+        android:textColor="@color/_bg__profile_ek2_color"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="@+id/profile_rec_1"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/email"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.13"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.726" />
+
+    <ImageView
+        android:id="@+id/phonevector"
+        android:layout_width="33.15dp"
+        android:layout_height="33.21dp"
+        android:contentDescription="phonevector"
+        android:src="@drawable/phonevector"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.15"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.593" />
+
+    <TextView
+        android:id="@+id/email_profile"
+        android:layout_width="295dp"
+        android:layout_height="57dp"
+        android:fontFamily="sans-serif-black"
+        android:gravity="center"
+        android:text="email"
+        android:textColor="@color/amankumartiwari1502_gmial_com_color"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.734" />
+
+    <TextView
+        android:id="@+id/phonenumber"
+        android:layout_width="166dp"
+        android:layout_height="54dp"
+        android:fontFamily="sans-serif-black"
+        android:gravity="center"
+        android:text="7067833834"
+        android:textColor="@color/amankumartiwari1502_gmial_com_color"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.718"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.601" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
