@@ -6,8 +6,6 @@ Demo Video
 
 
 
-https://user-images.githubusercontent.com/77660268/178339896-f2b70bf6-ec40-414b-93ad-063cfdc0af20.mp4
-
 ScreenShots
 ---
 
